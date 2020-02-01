@@ -1,0 +1,1 @@
+You need to copy ALL the tessdata into this folder after building from source
