@@ -4,6 +4,10 @@
 
 DynamOCR is the result of me playing around with the open source [Tesseract](https://github.com/charlesw/tesseract) library. This package exposes a node for use in the [Dynamo](http://www.dynamobim.org) visual programming environment. 
 
+## Disclaimer
+This is definitely a work in progress and it doesn't "just work" if you press download.
+
+<img src="https://media2.giphy.com/media/qGWLUvdYf6O0U/giphy.gif" width="256"/>
 
 ## Current Version
 DynamOCR is a work in progress and is currently built against the latest Dynamo build. At this time that is 2.5.0.
